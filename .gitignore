@@ -31,3 +31,7 @@ dist-ssr/
 
 # Vite specific
 .vite/
+
+# React Router
+/.react-router/
+/build/
